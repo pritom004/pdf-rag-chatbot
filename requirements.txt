@@ -1,0 +1,13 @@
+# Direct dependencies of main.py.
+# These exact versions were installed together and used for the offline
+# verification described in README.md (Python 3.12).
+streamlit==1.67.0
+python-dotenv==1.2.4
+langchain==1.4.9
+langchain-core==1.7.6
+langchain-community==0.4.2
+langchain-text-splitters==1.1.3
+langchain-openai==1.7.4
+langchain-groq==1.1.3
+langgraph==1.2.20
+pypdf==7.0.0

@@ -1,0 +1,22 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# User-uploaded PDFs (may be private) - keep only the folder placeholder
+docs_files/*
+!docs_files/.gitkeep
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
